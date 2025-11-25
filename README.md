@@ -19,7 +19,6 @@ This is the backend for a Student Portal / Course Helper app. It lets students m
   - `src/routes/` - Auth, Course, Task routes
   - `src/middleware/authMiddleware.js` - JWT protection
 
-## Getting Started
 
 1. Install dependencies:
 
@@ -52,4 +51,4 @@ npm run dev
   - `GET /api/tasks`
   - `POST /api/tasks`
 
-You can later add a React frontend in a `client/` folder and connect it to this API.
+
